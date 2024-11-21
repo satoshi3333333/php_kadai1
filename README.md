@@ -5,7 +5,7 @@
 チーズの試食会のアンケート
 
 ## ③アプリのデプロイURL
-https://satoshi333.sakura.ne.jp/php_kadai1/
+https://satoshi333.sakura.ne.jp/php_kadai1/home.php
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: 〇〇〇〇〇〇〇〇
